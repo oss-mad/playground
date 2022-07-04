@@ -1,6 +1,7 @@
 # OpenFeature Playground: Demo and API and SDK Experimentation
 
 [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Foss-mad%2Fplayground.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Foss-mad%2Fplayground?ref=badge_shield)
 
 The purpose of this repository is to demonstrate and experiment with existing and proposed functions of OpenFeature. These experiments were written in TypeScript and focus on NodeJS, but the basic concepts translate to most implementation languages.
 
@@ -321,3 +322,7 @@ values:
 - http://localhost:3333/calculate?num=30
 - http://localhost:3333/calculate?num=40
 - http://localhost:3333/calculate?num=50
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Foss-mad%2Fplayground.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Foss-mad%2Fplayground?ref=badge_large)
