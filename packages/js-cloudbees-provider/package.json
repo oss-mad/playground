@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "type": "commonjs",
   "dependencies": {
-    "@types/rox-node": "^5.0.1",
+    "@types/rox-node": "^5.0.2",
     "rox-node": "^5.2.0"
   }
 }
