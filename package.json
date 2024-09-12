@@ -35,7 +35,7 @@
     "class-validator": "^0.13.2",
     "continuation-local-storage": "^3.2.1",
     "core-js": "^3.6.5",
-    "express": "4.17.2",
+    "express": "4.21.0",
     "express-validator": "^6.14.0",
     "flagsmith-nodejs": "^1.1.1",
     "flagsmithv2": "npm:flagsmith-nodejs@^2.0.0-beta.1",
